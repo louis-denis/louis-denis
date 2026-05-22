@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**louis-denis/louis-denis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Louis 👋
 
-Here are some ideas to get you started:
+Building **Orbe Studio** & **Aiden** from Bucharest.
+Learning to code with CS50 & Le Wagon — documenting it all.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+From finance to AI software. I ship web & AI products with modern tools.
+
+---
+
+### 🚀 Let's work together
+
+- 💬 **Book a call** → [30 min, no agenda](TON_LIEN_CALENDLY)
+- 💼 **Hire me on Malt** → [Freelance dev & AI](TON_LIEN_MALT)
+- 🌱 **Orbe Studio** → [orbestudio.eu](https://orbestudio.eu)
+- 🤖 **Aiden** → [AI-powered websites](https://aiden.orbestudio.eu)
+
+---
+
+### 🛠️ What I'm building
+
+- Trading bots & systematic strategies (Python)
+- AI integrations & chatbots
+- Custom websites for SMBs
+
+📍 Bucharest · Remote worldwide
