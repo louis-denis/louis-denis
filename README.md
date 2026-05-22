@@ -7,10 +7,10 @@ From finance to AI software. I ship web & AI products with modern tools.
 
 ### Let's work together
 
-- **Book a call** → [30 min, let's talk about your project](https://calendly.com/contact-orbestudio/30min)
-- **Hire me on Malt** → [Freelance dev & AI](https://www.malt.fr/profile/louisdenis1)
-- **Orbe Studio** → [orbestudio.eu](https://orbestudio.eu/)
-- **Aiden** → [AI-powered websites, ready in 7 days](https://aiden.orbestudio.eu/)
+- **Need a brand, a website, or strategy?** → [Orbe Studio](https://orbestudio.eu/) — my web & AI agency
+- **Want a site with built-in AI, fast?** → [Aiden](https://aiden.orbestudio.eu/) — AI-powered websites, ready in 7 days
+- **Looking for a freelance dev for a specific mission?** → [Hire me on Malt](https://www.malt.fr/profile/louisdenis1)
+- **Not sure yet? Let's just talk** → [Book a 30-min call](https://calendly.com/contact-orbestudio/30min)
 
 ---
 
@@ -30,3 +30,4 @@ From finance to AI software. I ship web & AI products with modern tools.
 ---
 
 📍 Bucharest · Remote worldwide
+
