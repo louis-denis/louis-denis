@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Louis 👋
 
 Building **Orbe Studio** & **Aiden** from Bucharest.
